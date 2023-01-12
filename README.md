@@ -17,7 +17,7 @@ You can install these libraries by running the following command:
 
 ```pip install -r requirements.txt ```
 ## Usage
-1. To use the application, run the script audio_to_text_converter.py
+1. To use the application, run the script main.py
 2. Select the language of the audio file from the dropdown
 3. Choose the .wav file to convert into text
 4. Press the "Audio to Text" button
